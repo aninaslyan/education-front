@@ -2,4 +2,4 @@
 
 Access at `http://localhost:8080`
 
-ignore .idea files
+ignore `.idea` files
